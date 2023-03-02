@@ -2,3 +2,6 @@ Given an array of 0's,1's,and 2's segregate them. Ductch National Flag problem.
 
 2. Find the duplicate numbers. 
 	Given an array of size n+1; and all the elements in the range 1 to n; Find the duplicate numbers. Tortoise hair problem. Worhshall floyd cycle detection algorithm.
+
+3. Find the missing number and repeated number
+	Given an array of size n and all the elements are 1 to n. Each integer in the array 
